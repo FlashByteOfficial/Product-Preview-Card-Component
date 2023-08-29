@@ -62,6 +62,7 @@ body {
 
 .imgContainer img {
   max-width: 100%;
+  filter: contrast(140%);
 }
 
 .descriptionContainer {
